@@ -1,6 +1,6 @@
 body {
-    background-color: #9FD5F1;
-    color: #C64F2A;
+    background-color: #152A56;
+    color: #10a4a8;
     font-family: Arial, sans-serif;
 }
 
@@ -13,13 +13,13 @@ h1 {
 h2 {
     font-size: 24px;
     font-family: 'Verdana', sans-serif;
-    color: #F48150;
+    color: #DB7162;
 }
 
 h3 {
     font-size: 20px;
     font-family: 'Verdana', sans-serif;
-    color: #F48150;
+    color: #a0dcde;
 }
 
 p {
@@ -27,7 +27,7 @@ p {
 }
 
 img {
-    border: 5px solid #55BAE5;
+    border: 5px solid #953553;
     padding: 10px;
     margin: 20px;
     border-top-right-radius: 30px;
