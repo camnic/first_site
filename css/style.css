@@ -7,17 +7,17 @@ body {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 46px;
     font-family: 'Georgia', serif;
     font-weight: bold;
     text-align: center;
-    margin: 50px auto auto 20px;
+    margin: 50px auto -30px 20px;
 }
 
 h2 {
     font-size: 30px;
     font-family: 'Verdana', sans-serif;
-    color: #A0DCDE;
+    color: #DB7162;
     margin: 75px auto 15px 20px;
 }
 
@@ -26,13 +26,6 @@ h3 {
     font-family: 'Verdana', sans-serif;
     color: #A0DCDE;
     margin: 30px auto auto 20px;
-}
-
-h4 {
-    font-size: 32px;
-    font-family: 'Verdana', sans-serif;
-    color: #DB7162;
-    margin: 30px auto -40px 10px;
 }
 
 p {
