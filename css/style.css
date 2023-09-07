@@ -46,3 +46,12 @@ li {
     display: inline-block;
     margin: 20px auto auto 50px;
 }
+
+ol li {
+    display: block;
+    margin: 20px auto auto 50px;
+}
+
+.bold-text {
+    font-weight: bold;
+  }
