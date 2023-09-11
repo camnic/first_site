@@ -10,8 +10,6 @@ h1 {
     font-size: 46px;
     font-family: 'Georgia', serif;
     font-weight: bold;
-    text-align: center;
-    margin: 50px auto -30px 20px;
 }
 
 h2 {
@@ -44,7 +42,7 @@ img {
 
 li {
     display: inline-block;
-    margin: 20px auto auto 50px;
+    margin: 20px 50px 20px 40px;
 }
 
 ol li {
@@ -52,6 +50,17 @@ ol li {
     margin: 20px auto auto 50px;
 }
 
+nav ul {
+    color: #A0DCDE;
+}
+
+beginning {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin: 20px auto auto auto;
+}
+
 .bold-text {
     font-weight: bold;
-  }
+}
