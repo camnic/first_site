@@ -83,7 +83,7 @@ beginning {
 }
 
 nav a.active {
-    color: #DB7162;
+    color: #EAA99F;
 }
 
 @media (max-width: 768px) {
