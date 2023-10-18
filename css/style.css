@@ -84,6 +84,7 @@ beginning {
 
 nav a.active {
     color: #EAA99F;
+    font-weight: bold;
 }
 
 @media (max-width: 768px) {
@@ -101,6 +102,7 @@ nav a.active {
 
     nav a.active, nav a:hover {
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        font-weight: bold;
     }
 
     body {
@@ -131,5 +133,12 @@ nav a.active {
     .skip:focus {
         top: 0;
         transform: rotate(0deg);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
     }
 }
