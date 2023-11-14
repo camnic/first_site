@@ -14,7 +14,6 @@ h1 {
 h2 {
     font-size: 30px;
     font-family: 'Roboto', sans-serif;
-    color: #DB7162;
     margin: 75px auto 15px 20px;
     color: var(--accent-color);
 }
